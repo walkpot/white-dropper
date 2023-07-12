@@ -5,7 +5,7 @@ white Dropper / fud(0/26) dropper / for educational purposes only. / all respons
 sorry for this worst code... i was drunk.
 
 # white dropper is detected?
-it was undetected like 0/26 on antiscan.me.
+it was undetected like 0/26 on antiscan.me. rn its 1/26 (maybe) 
 
 # !!WARNING!!
 ! DONT UPLOAD TO VIRUSTOTAL !
